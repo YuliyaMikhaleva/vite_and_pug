@@ -1,0 +1,20 @@
+{
+  "name": "multipage",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9"
+  },
+  "dependencies": {
+    "@types/node": "^20.5.9",
+    "picocolors": "^1.0.0",
+    "pug": "^3.0.2",
+    "vitest": "^0.34.3"
+  }
+}
